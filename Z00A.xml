@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project name="CyanogenMod/android_device_asus_mofd-common"    path="device/asus/mofd-common"    remote="github" revision="cm-14.0" />
+    <project name="CyanogenMod/android_kernel_asus_moorefield"     path="kernel/asus/moorefield"     remote="github" revision="cm-14.0" />
+    <project name="CyanogenMod/android_device_asus_Z00A"           path="device/asus/Z00A"           remote="github" revision="cm-14.0" />
+    <project name="TheMuppets/proprietary_vendor_asus"             path="vendor/asus"                remote="github" revision="cm-14.0" />
+</manifest>
